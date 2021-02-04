@@ -2,6 +2,16 @@
 Basicamnete lo que se realizo fue la creacion de  un crud mediante el uso de android studio 
 tambien se hizo uso de firebase que va a funcionar como la base de datos
 
+INTEGRANTES:
+
+EDUARDO CAIZA
+
+BRYAN OLIVARES
+
+LINK FUNCIONAMIENTO:
+
+https://youtu.be/xa1vqfz2Ndw
+
 INSERTAR NUEVOS REGISTROS
 
 Para esto lo que se realizo es ingresar la informacion solicitada y a continuacion de esto 
